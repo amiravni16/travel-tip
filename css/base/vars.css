@@ -1,0 +1,40 @@
+:root {
+    /* Primary colors */
+    --clr1: #2196F3;  /* Material Blue */
+    --clr2: #607D8B;  /* Material Blue Grey */
+    --clr3: #455A64;  /* Material Blue Grey Dark */
+    --clr4: #FFFFFF;  /* White */
+    
+    /* Background colors */
+    --bg1: #FFFFFF;   /* White background */
+    --bg2: #F5F5F5;   /* Light gray background */
+    --bg3: #E0E0E0;   /* Border gray */
+    
+    /* Accent colors */
+    --accent1: #4CAF50;  /* Material Green */
+    --accent2: #F44336;  /* Material Red */
+    --accent3: #FFC107;  /* Material Amber */
+    
+    /* Text colors */
+    --text1: #212121;  /* Almost black for primary text */
+    --text2: #757575;  /* Material Grey */
+    --text3: #9E9E9E;  /* Material Grey Light */
+
+    /* Additional UI colors */
+    --active: #FFD700;    /* Gold color for active items */
+    --hover: #E3F2FD;     /* Light blue for hover states */
+    --error: #F44336;     /* Material Red */
+    --success: #4CAF50;   /* Material Green */
+}
+
+/* Another theme */
+/* :root {
+    --bg1: rgb(37, 13, 195);
+    --bg2: rgb(26, 110, 146);
+    --bg3: rgb(9, 49, 226);
+    --color1: aliceblue;
+    --color2: rgb(94, 169, 240);
+    --color3: rgb(211, 187, 48);
+    --color4: rgb(90, 66, 6);
+    --gray1: lightgray;
+} */
